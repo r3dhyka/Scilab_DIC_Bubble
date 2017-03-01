@@ -1,7 +1,7 @@
 //**************************************************************************/
 
 //
-//Pre-processing and Spatial Cross Correlation for Micro-bubble size estimation
+//FFT Cross Correlation for Micro-bubble size estimation
 //Last updated July 25, 2016
 //
 //
